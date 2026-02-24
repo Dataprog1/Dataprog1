@@ -20,3 +20,7 @@ Here you can find some of my professional courses I've completed.
     * [Excel Skills for Business: Intermediate II](https://coursera.org/share/29b7b5c708d1a0b1cfabafd75001328d)
 
 ---
+## Selected Projects
+
+- Bayesian Modeling of Student Academic Success  
+  👉 https://github.com/YOUR_USERNAME/Bayesian-Academic-Success
