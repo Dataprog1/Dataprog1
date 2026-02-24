@@ -1,6 +1,6 @@
 ### B.Sc. in Data Science & Economics 
 
-Here you can find some of my professional courses I've completed.
+Python | R | Excel | SQL | Data Analysis | Bayesian Modeling | Financial Analytics
 
 ---
 
@@ -22,9 +22,14 @@ Here you can find some of my professional courses I've completed.
 ---
 ## Selected Projects
 
-- Bayesian Modeling of Student Academic Success  
-  👉 https://github.com/Dataprog1/Bayesian-Academic-Success
+### 📊 Bayesian Modeling of Student Academic Success  
+Built a Bayesian inference model to analyze and predict student performance outcomes.  
+**Tools:** R, Bayesian Modeling  
+👉 https://github.com/Dataprog1/Bayesian-Academic-Success
 
-- Brazil-Ecommerce-Analysis
-  👉 https://github.com/Dataprog1/Brazil-Ecommerce-Analysis
+---
 
+### 🛒 Brazil E-Commerce Analysis  
+Performed exploratory and business-oriented analysis on real-world e-commerce data to extract actionable insights.  
+**Tools:** Python, Data Analysis  
+👉 https://github.com/Dataprog1/Brazil-Ecommerce-Analysis
