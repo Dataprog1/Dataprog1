@@ -1,4 +1,4 @@
-### Hi there 👋, I'm a Data Science & Economist.
+### B.Sc in Data Science & Economist.
 
 Here you can find some of my professional courses I've completed.
 
