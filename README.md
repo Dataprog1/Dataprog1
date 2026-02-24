@@ -26,4 +26,5 @@ Here you can find some of my professional courses I've completed.
   👉 https://github.com/Dataprog1/Bayesian-Academic-Success
 
 - Brazil-Ecommerce-Analysis
-👉 https://github.com/Dataprog1/Brazil-Ecommerce-Analysis
+  👉 https://github.com/Dataprog1/Brazil-Ecommerce-Analysis
+
