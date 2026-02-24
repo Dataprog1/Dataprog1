@@ -23,4 +23,4 @@ Here you can find some of my professional courses I've completed.
 ## Selected Projects
 
 - Bayesian Modeling of Student Academic Success  
-  👉 https://github.com/YOUR_USERNAME/Bayesian-Academic-Success
+  👉 https://github.com/Dataprog1/Bayesian-Academic-Success
