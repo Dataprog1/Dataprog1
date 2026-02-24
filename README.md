@@ -33,3 +33,9 @@ Built a Bayesian inference model to analyze and predict student performance outc
 Performed exploratory and business-oriented analysis on real-world e-commerce data to extract actionable insights.  
 **Tools:** Python, Data Analysis  
 👉 https://github.com/Dataprog1/Brazil-Ecommerce-Analysis
+---
+
+### 🏠 Housing Price Prediction  
+Built a machine learning model to predict apartment prices using structured feature engineering and model optimization.  
+**Tools:** Python, Machine Learning, XGBoost  
+👉 https://github.com/Dataprog1/housing-price-prediction
