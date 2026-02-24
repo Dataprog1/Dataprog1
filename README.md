@@ -1,4 +1,4 @@
-### B.Sc in Data Science & Economist.
+### B.Sc. in Data Science & Economics 
 
 Here you can find some of my professional courses I've completed.
 
