@@ -24,3 +24,6 @@ Here you can find some of my professional courses I've completed.
 
 - Bayesian Modeling of Student Academic Success  
   👉 https://github.com/Dataprog1/Bayesian-Academic-Success
+
+- Brazil-Ecommerce-Analysis
+👉 https://github.com/Dataprog1/Brazil-Ecommerce-Analysis
