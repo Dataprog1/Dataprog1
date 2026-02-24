@@ -4,14 +4,10 @@ Python | R | Excel | SQL | Data Analysis | Bayesian Modeling | Financial Analyti
 
 ---
 
-## 🎓 Courses & Certifications
-
-### Data Science & Python
-* [Databases and SQL for Data Science with Python](https://www.coursera.org/share/fdab034a4b24cd2b55c48671f7a5321c) - **Coursera (IBM)**
-
 ### Databases & SQL
 * [SQL Basics](https://learnsql.com/files/course-certificate/SNISvxzojmJeCHgKyfshYWlzitkbYPuzEvqzMePQ) - **LearnSQL.com**
 * [SQL JOINS](https://learnsql.com/files/course-certificate/PELyrldIcmHoLPyuAAvMEwfnYQNMZgyWloGyoOEa) - **LearnSQL.com**
+* [Databases and SQL for Data Science with Python](https://www.coursera.org/share/fdab034a4b24cd2b55c48671f7a5321c) - **Coursera (IBM)**
 
 ### Business Intelligence Tools
 * **Excel Skills for Business (Essentials to Intermediate II)** - **Coursera**
