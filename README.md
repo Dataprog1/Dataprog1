@@ -36,3 +36,12 @@ Performed exploratory and business-oriented analysis on real-world e-commerce da
 Built a machine learning model to predict apartment prices using structured feature engineering and model optimization.  
 **Tools:** Python, Machine Learning, XGBoost  
 👉 https://github.com/Dataprog1/housing-price-prediction
+
+---
+
+📊 Portfolio Optimization Analysis
+
+Built a multi-asset portfolio analysis project in Excel, combining constrained mean-variance optimization, out-of-sample validation, CAPM regression, and risk analysis.
+
+Tools: Excel, Solver, CAPM, Portfolio Optimization, Risk Analysis  
+👉 https://github.com/Dataprog1/Portfolio-Optimization-Dashboard
