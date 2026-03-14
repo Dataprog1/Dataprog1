@@ -39,7 +39,7 @@ Built a machine learning model to predict apartment prices using structured feat
 
 ---
 
-📊 Portfolio Optimization Analysis
+### 📊 Portfolio Optimization Analysis
 
 Built a multi-asset portfolio analysis project in Excel, combining constrained mean-variance optimization, out-of-sample validation, CAPM regression, and risk analysis.
 
